@@ -42,7 +42,7 @@ docker run -v $(pwd):/project -e AWS_ACCESS_KEY_ID=XXX -e AWS_SECRET_ACCESS_KEY=
 * `/project` - Files
 ## Authors
 
-* **Nico Schreiner** - *Initial work* - [PurpleBooth](https://github.com/nicoschreiner)
+* **Nico Schreiner** - *Initial work* - [nicoschreiner](https://github.com/nicoschreiner)
 
 See also the list of [contributors](https://github.com/your/repository/contributors) who 
 participated in this project.
